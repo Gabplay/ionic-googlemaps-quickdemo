@@ -1,4 +1,4 @@
-# GoogleMaps quick demo
+# GoogleMaps quick demo [ISSUE](https://github.com/mapsplugin/cordova-plugin-googlemaps/issues/2396)
 
 This is a demo app of [@ionic-native/google-maps](https://www.npmjs.com/package/@ionic-native/google-maps) plugin and [Cordova GoogleMaps](https://github.com/mapsplugin/cordova-plugin-googlemaps) plugin.
 
